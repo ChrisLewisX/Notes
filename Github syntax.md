@@ -1,10 +1,13 @@
+**A cheetsheet for _github syntax_ **
+
+
 # Heading Large
 ## Heading Medium
 ##### Heading Small
 
 **BOLD TEXT**
 
-__Italic Text__
+_Italic Text_
 
 ~~Striked Text~~
 
@@ -30,5 +33,14 @@ Distinct Boxes
 
 Emoji picture :joy:
 
+Page split
+
+***
+Underlined Text 
+---
+
 Working link:
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
+
+
+Subtle [Working Link](https://www.webpagefx.com/tools/emoji-cheat-sheet/)   
