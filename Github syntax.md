@@ -42,4 +42,4 @@ Working link:
 https://www.webpagefx.com/tools/emoji-cheat-sheet/
 
 
-Subtle [Working Link](https://www.webpagefx.com/tools/emoji-cheat-sheet/)   
+Subtle [Working Link](https://www.webpagefx.com/tools/emoji-cheat-sheet/)  
