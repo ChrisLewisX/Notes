@@ -18,10 +18,12 @@ Distinct Boxes
 1. Ordered List
 
 1. List item
- - Circle Nested item
-  - Square Nested Item
-  
+- Non-Nested item
+    - Circle Nested Item
+      - Square Nested item
+      
 - [ ] unchecked item
 - [x] checked item
 
-**Bold** \*\*Not Bold\*\*
+**Bold** 
+\*\*Not Bold\*\*
