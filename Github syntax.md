@@ -27,3 +27,8 @@ Distinct Boxes
 
 **Bold** 
 \*\*Not Bold\*\*
+
+Emoji picture :joy:
+
+Working link:
+https://www.webpagefx.com/tools/emoji-cheat-sheet/
