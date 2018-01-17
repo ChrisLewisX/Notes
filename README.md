@@ -1,2 +1,2 @@
 # Notes
-A series of notes and cheat sheets
+A series of notes, links and cheat sheets
