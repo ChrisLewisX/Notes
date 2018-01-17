@@ -1,5 +1,7 @@
 **A cheetsheet for _github syntax_ **
 
+***
+^ Page Split ^
 
 # Heading Large
 ## Heading Medium
@@ -33,9 +35,6 @@ Distinct Boxes
 
 Emoji picture :joy:
 
-Page split
-
-***
 Underlined Text 
 ---
 
